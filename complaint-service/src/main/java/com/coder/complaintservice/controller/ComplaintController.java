@@ -45,4 +45,8 @@ public class ComplaintController {
         return new ResponseEntity<>(result, HttpStatus.OK);
     }
 
+    public void getAllComplaint() {
+
+    }
+
 }
